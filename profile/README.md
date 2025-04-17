@@ -3,6 +3,7 @@
 
 | Resource  | Link |
 |      :---:       |      :---:       |
+| Tebex Store  | [Click Here](https://store.inferno-collection.com/) |
 | Website  | [Click Here](https://inferno-collection.com/) |
 | Discord  | [Click Here](https://discord.gg/5GZ3Jzt) |
 | GitHub  | [Click Here](https://github.com/inferno-collection) |
